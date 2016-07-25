@@ -1,0 +1,23 @@
+/* custom css goes here */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 70px;
+}
+
+
+.firstSentence {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+div.row p {
+    color: blue;
+}
+
+#firstH1 {
+    color: blue;
+}

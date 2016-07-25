@@ -1,0 +1,23 @@
+{
+  "name": "comp125-lesson11",
+  "authors": [
+    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "jquery": "^2.2.4"
+  }
+}
