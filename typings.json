@@ -1,5 +1,7 @@
 {
   "globalDependencies": {
-    "jquery": "registry:dt/jquery#1.10.0+20160704162008"
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008",
+    "jquerymobile": "registry:dt/jquerymobile#1.4.0+20160316155526",
+    "jqueryui": "registry:dt/jqueryui#1.11.0+20160725073107"
   }
 }
