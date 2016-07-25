@@ -2,7 +2,7 @@
  * FileName: app.js
  * 
  * @author Tom Tsiliopoulos
- * @date July 11, 2016
+ * @date July 25, 2016
  * 
  * StudentID: 300818557
  * 
@@ -103,6 +103,11 @@
         readAddressBook();
 
         loadFooter();
+
+        // JQUERY STUFF GOES HERE
+
+        
+
 
     }
 
