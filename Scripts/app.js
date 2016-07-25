@@ -106,8 +106,7 @@
 
         // JQUERY STUFF GOES HERE
 
-        
-
+        $("#firstH1").text("Hello World!").css("color","red");
 
     }
 
